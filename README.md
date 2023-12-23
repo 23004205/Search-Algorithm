@@ -111,15 +111,16 @@ else:
 
 ```
 ## Sample Input and Output
+![Screenshot 2023-12-23 044909](https://github.com/23004205/Search-Algorithm/assets/138971114/3b85ee7a-46fa-4e92-bc09-a1c04163322f)
 
-![linear 111](https://github.com/23004205/Search-Algorithm/assets/138971114/beb4bd2b-c6b3-46cb-a760-d7608a7bf336)
+![Screenshot 2023-12-23 045039](https://github.com/23004205/Search-Algorithm/assets/138971114/7e5eaef6-9c85-41e7-8247-2fb0abdcfb40)
 
-![Screenshot 2023-12-03 173610](https://github.com/23004205/Search-Algorithm/assets/138971114/62fb67b0-e894-426d-b259-b12e45f9a2ab)
+![Screenshot 2023-12-23 045107](https://github.com/23004205/Search-Algorithm/assets/138971114/be5eba42-cb13-4a3b-a000-d73836ecb3c1)
 
-![Screenshot 2023-12-03 173630](https://github.com/23004205/Search-Algorithm/assets/138971114/c1692da8-0911-4067-b594-15988d4fa4bf)
+![Screenshot 2023-12-23 045232](https://github.com/23004205/Search-Algorithm/assets/138971114/d415644b-99f2-464d-9d3f-ba5ad2d1d754)
+![Screenshot 2023-12-23 045343](https://github.com/23004205/Search-Algorithm/assets/138971114/e7b28dd9-2169-43cc-b8ed-d89cd3a878cb)
 
-
-
+![Screenshot 2023-12-23 045415](https://github.com/23004205/Search-Algorithm/assets/138971114/e906ee27-d386-406a-871f-744c3bf7b478)
 
 ## Result
 Thus the linear search and binary search algorithm is implemented using python programming.
